@@ -1,5 +1,5 @@
 
-# Neuroinformatics-LSTM-Synthesizer based on ICD (Impulse Control Disorder)
+# Neuroinformatics LSTM Synthesizer based on ICD (Impulse Control Disorder) disease.
 
 Computer-aided detection and diagnosis (CAD) systems are increasingly being used as an aid by clinicians 
 for detection and interpretation of diseases medical analysis and identification. Let's say a person stays in a remote area far from a 
