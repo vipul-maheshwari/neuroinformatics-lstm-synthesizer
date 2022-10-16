@@ -63,8 +63,7 @@ the false positive rate does not rise for 5 epochs in a row.
 
 ![Details of functions used while processing the](https://user-images.githubusercontent.com/86592569/196053950-9eb3527f-a054-4f37-826b-023e8b77e232.png)
 |:--:| 
-| *Table 1 : Details of functions used while processing the
-fMRI images* |
+| *Table 1 : Details of functions used while processing the fMRI images* |
 
 Various experiments with extraordinary layer configurations
 were done to provide the information about the the most ap-
@@ -78,8 +77,7 @@ dense layer was created. It depends on the final convolution
 
 ![Table 2](https://user-images.githubusercontent.com/86592569/196054041-0a42a57c-5d26-42f8-a2c1-b297e7e7cc52.png)
 |:--:| 
-| *Table 2 : Distinct features in the fMRI image file of a
-subject* |
+| *Table 2 : Distinct features in the fMRI image file of a subject* |
 
 
 ## Header of the FMRI images
@@ -110,8 +108,7 @@ each is prominent. All features of the fMRI are shown in Table 3
 
 ![table 3](https://user-images.githubusercontent.com/86592569/196054079-b2599266-56eb-45b4-b599-db2012a7874d.png)
 |:--:| 
-| *Table 3 : The Finest Deep Learning Architectures’ Setup
-Descriptions* |
+| *Table 3 : The Finest Deep Learning Architectures’ Setup Descriptions* |
 
 Various techniques are available to obtain spatial maps or
 networks from group fMRI information. The techniques ex-
