@@ -1,5 +1,5 @@
 
-# Neuroinformatics LSTM Synthesizer based on ICD (Impulse Control Disorder) disease.
+# Neuroinformatics LSTM Synthesizer based on ICD (Impulse Control Disorder).
 
 Computer-aided detection and diagnosis (CAD) systems are increasingly being used as an aid by clinicians 
 for detection and interpretation of diseases medical analysis and identification. Let's say a person stays in a remote area far from a 
@@ -19,7 +19,7 @@ Future prospective results can also be forecasted thanks to advances in data ana
 Males are significantly more likely than females to develop impulse control disorders, and these illnesses frequently coexist with other psychiatric problems or the use of drugs. Because impulse control problems are often missed or misdiagnosed, many people who suffer from them may not receive the care they require. A greater knowledge of the disease can assist bridge the treatment gap and ensure that people receive the care they need to improve their symptoms. Behavioral therapy is commonly used to treat impulse control issues, although drugs may also be helpful.
 Despite the fact that dopamine and associated incentives have long been the research focus, researchers have recently begun to go outside such mechanisms for new insights into the neurological basis of ICD and possibly new therapy strategies.
 
-## Using Deep Learning capabilities for the diagnosis of the diseases
+## Using Deep Learning capabilities for the diagnosis of the disease
 Convolutional neural network (CNN): A method of using deep learning that can be used to predict illness. It is a form of artificial neural network which has at minimum 3 layers: convolutional, pooling, and fully connected layers. CNN provides the ability in diagnosing illness with the help of creating a model to extract specific disease function. It can also be used to predict disease and drug discovery in clinical pictures. Examples of disease predictors that concern CNN use include illness category, disease classification, and disease identity. CNN uses images to predict the disease. Examples of diseases for which CNNs may be used include pores and skin cancer, breast cancer, and heart disease.
 Recurrent Neural community (RNN) / LSTM: An in-depth knowledge of this is widely used in the processing of language applications, which includes the techniques of translating the device. It contains a small number of stacks of long and fast memory units (LSTMs), which may be neural community cells. RNN may be used to diagnose illness using disease-specific language models, including disease symptoms or patient information. Examples of diseases RNNs can develop disease predictor models that include Alzheimer's disease, Parkinson's disease, among others.
 
